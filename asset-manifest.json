@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Syntax-Highlighter-Study-Guide/static/css/main.76b10c47.chunk.css",
+    "main.js": "/React-Syntax-Highlighter-Study-Guide/static/js/main.78b4faf9.chunk.js",
+    "main.js.map": "/React-Syntax-Highlighter-Study-Guide/static/js/main.78b4faf9.chunk.js.map",
+    "runtime-main.js": "/React-Syntax-Highlighter-Study-Guide/static/js/runtime-main.0d167dcb.js",
+    "runtime-main.js.map": "/React-Syntax-Highlighter-Study-Guide/static/js/runtime-main.0d167dcb.js.map",
+    "static/js/2.3a49c885.chunk.js": "/React-Syntax-Highlighter-Study-Guide/static/js/2.3a49c885.chunk.js",
+    "static/js/2.3a49c885.chunk.js.map": "/React-Syntax-Highlighter-Study-Guide/static/js/2.3a49c885.chunk.js.map",
+    "static/js/3.da45eb7c.chunk.js": "/React-Syntax-Highlighter-Study-Guide/static/js/3.da45eb7c.chunk.js",
+    "static/js/3.da45eb7c.chunk.js.map": "/React-Syntax-Highlighter-Study-Guide/static/js/3.da45eb7c.chunk.js.map",
+    "index.html": "/React-Syntax-Highlighter-Study-Guide/index.html",
+    "static/css/main.76b10c47.chunk.css.map": "/React-Syntax-Highlighter-Study-Guide/static/css/main.76b10c47.chunk.css.map",
+    "static/js/2.3a49c885.chunk.js.LICENSE.txt": "/React-Syntax-Highlighter-Study-Guide/static/js/2.3a49c885.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d167dcb.js",
+    "static/js/2.3a49c885.chunk.js",
+    "static/css/main.76b10c47.chunk.css",
+    "static/js/main.78b4faf9.chunk.js"
+  ]
+}
