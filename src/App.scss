@@ -1,0 +1,35 @@
+body {
+  margin: 40px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgb(21, 21, 41) 35%,
+    rgb(18, 29, 31) 100%
+  );
+  color: #fff;
+
+  @media (min-width: 768px) {
+    margin: 80px;
+  }
+}
+
+.app {
+  &__header {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: darkblue;
+    margin: -20px;
+    padding: 20px;
+    margin-bottom: 60px;
+  }
+}
+
+.code {
+  margin-top: 80px;
+
+  &__answer-section {
+    border: 1px solid #fff;
+    margin: 10px 0px;
+    padding: 10px;
+  }
+}

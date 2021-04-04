@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import DayOne from './components/DayOne';
+import Palindrome from './components/Palindrome';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className="app">
+      <header className="app__header">
+        <h1>Claire's Frontend Study Guide</h1>
+        <div className="app__nav">
+          <a href="#question-1">
+            <h4>1: String Reversal</h4>
+          </a>
+          <a href="#question-2">
+            <h4>2: Palindromes</h4>
+          </a>
+        </div>
       </header>
+      <div>
+        <DayOne />
+        <Palindrome />
+      </div>
     </div>
   );
 }
