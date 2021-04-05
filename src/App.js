@@ -1,6 +1,7 @@
 import './App.scss';
 import DayOne from './components/DayOne';
 import Palindrome from './components/Palindrome';
+import ReverseInt from './components/ReverseInt';
 
 function App() {
   return (
@@ -14,11 +15,15 @@ function App() {
           <a href="#question-2">
             <h4>2: Palindromes</h4>
           </a>
+          <a href="#question-3">
+            <h4>3: Reverse an Int</h4>
+          </a>
         </div>
       </header>
       <div>
         <DayOne />
         <Palindrome />
+        <ReverseInt />
       </div>
     </div>
   );
