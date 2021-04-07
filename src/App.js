@@ -2,6 +2,7 @@ import './App.scss';
 import DayOne from './components/DayOne';
 import Palindrome from './components/Palindrome';
 import ReverseInt from './components/ReverseInt';
+import MaxChar from './components/MaxChar';
 
 function App() {
   return (
@@ -18,12 +19,16 @@ function App() {
           <a href="#question-3">
             <h4>3: Reverse an Int</h4>
           </a>
+          <a href="#question-4">
+            <h4>4: Max Char</h4>
+          </a>
         </div>
       </header>
       <div>
         <DayOne />
         <Palindrome />
         <ReverseInt />
+        <MaxChar />
       </div>
     </div>
   );
